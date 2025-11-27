@@ -36,6 +36,9 @@ cd Handwritten-equation-recognition
 ```bash
 pip install -r requirements.txt
 ```
+### 3. Download Weight
+Download this weight file and save it to the project root folder.
+[best_model.h5](https://github.com/PeterMon0905/Handwritten-equation-recognition/releases/download/v1.0.0/best_model.h5)
 ## Usage
 ### Run the GUI Demo
 ``` bash
